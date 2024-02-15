@@ -1,0 +1,6 @@
+@RocketseatAuctionAPI_HostAddress = http://localhost:5145
+
+GET {{RocketseatAuctionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
